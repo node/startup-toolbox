@@ -24,6 +24,8 @@ VPN
 开放API
 ----
 社交网络  
+百度 开发者服务 http://apistore.baidu.com/
+DevStore http://www.devstore.cn/
 
 
 书籍
