@@ -24,3 +24,11 @@ VPN
 开放API
 ----
 社交网络  
+
+
+书籍
+----
+* Lean Startup 
+* Zero to One
+* Getting Real, Rework, Remote 
+* The hard thing about hard things
