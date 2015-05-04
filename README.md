@@ -30,19 +30,19 @@ DevStore http://www.devstore.cn/
 
 脚手架项目
 ----
-REST API服务框架
-管理后台web框架 
-socket 服务器框架 
+REST API服务框架  
+管理后台web框架   
+socket 服务器框架   
 
 
 中间件与服务
 ----
-消息队列
-缓存服务
-高可靠key-value存储
-分布式文件服务(上传/下载)
-分布式服务架构框架 
-100w+TCP长连接服务方案
+消息队列  
+缓存服务  
+高可靠key-value存储  
+分布式文件服务(上传/下载)  
+分布式服务架构框架   
+100w+TCP长连接服务方案  
 
 
 
